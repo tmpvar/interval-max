@@ -1,6 +1,6 @@
 {
   "name": "interval-max",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "compute the MAX interval of two intervals",
   "main": "interval-max.js",
   "scripts": {
