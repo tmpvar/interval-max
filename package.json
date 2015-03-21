@@ -1,0 +1,29 @@
+{
+  "name": "interval-max",
+  "version": "1.0.0",
+  "description": "compute the MAX interval of two intervals",
+  "main": "interval-max.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/interval-max.git"
+  },
+  "keywords": [
+    "interval",
+    "max",
+    "roots",
+    "root",
+    "finding"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/interval-max/issues"
+  },
+  "homepage": "https://github.com/tmpvar/interval-max",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
